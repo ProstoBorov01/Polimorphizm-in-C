@@ -1,0 +1,12 @@
+# ninja log v5
+5	113	7352399046826660	CMakeFiles/lab_01.dir/main.c.obj	c83d3468dde6d03a
+3	290	7352399599709286	build.ninja	1a11fed0120dba04
+13	381	7352399550610360	CMakeFiles/lab_01.dir/FieldInfoFuncs.c.obj	849422266d27deb2
+437	590	7352399552802270	lab_01.exe	93a9e2c123b90048
+37	389	7352399550774321	CMakeFiles/lab_01.dir/MatrixService.c.obj	1bf6dbfd57533986
+0	375	7352399550548301	CMakeFiles/lab_01.dir/MatrixOperations.c.obj	f2f06b6da98f8c47
+72	401	7352399550956520	CMakeFiles/lab_01.dir/VectorService.c.obj	b4916d91d0d34bb
+6	378	7352399550548301	CMakeFiles/lab_01.dir/Check.c.obj	73150513cf4bae2e
+29	382	7352399550620305	CMakeFiles/lab_01.dir/messages.c.obj	920a2ce7ce4f76
+21	380	7352399550526230	CMakeFiles/lab_01.dir/FieldInfo.c.obj	c4d1eba3e3567408
+52	437	7352399551328412	CMakeFiles/lab_01.dir/TestCore.c.obj	e3e8c68f843faddf
