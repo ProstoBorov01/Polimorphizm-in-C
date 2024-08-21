@@ -1,1 +1,1 @@
-Poilimorphic matrix in C
+Poilimorphic Abstract Data Type - matrix - in C
